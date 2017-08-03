@@ -11,14 +11,21 @@ Dataset link: http://pan.baidu.com/s/1hsxfUz6 password: rx8x
 
 These datasets are ONLY released for academic use. The copyrights belong to authors of [2] and [3].  
 
+If you have any detail questions about the dataset, please feel free to contact us: siyuhuang@zju.edu.cn
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 Introduction
 
 test_images_VIRAT.zip and test_images_KIT.zip respectively include files of VIRAT set and KIT set. 
 
-VIRAT set contains 43 folders corresponding to 43 raw videos. Each folder contains three kinds of files: \*.jpg is scene images; bb_\*.mat is bounding box of object with [w1,h1,w2,h2]; gt_\*.mat is trajectory of object with [h,w].
+VIRAT set contains 43 folders corresponding to 43 raw videos of 9 scenes. Each folder contains three kinds of files: \*.jpg is scene image; bb_\*.mat is bounding-box of object with [w1, h1, w2, h2]; gt_\*.mat is trajectory of object with [h, w].
+
+
+KIT set contains 8 folders corresponding to 8 scenes. The format of its files is the same to VIRAT set.
 
 
 
+We only provide the test sets used in our paper, because
 
+Thanks and hope you will benefit from these datasets.
