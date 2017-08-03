@@ -17,7 +17,7 @@ Introduction
 
 test_images_VIRAT.zip and test_images_KIT.zip respectively include files of VIRAT set and KIT set. 
 
-VIRAT set contains 43 folders corresponding to 43 raw videos. Each folder contains three kinds of files, where \*.jpg are  
+VIRAT set contains 43 folders corresponding to 43 raw videos. Each folder contains three kinds of files: \*.jpg is scene images; bb_\*.mat is bounding box of object with [w1,h1,w2,h2]; gt_\*.mat is trajectory of object with [h,w].
 
 
 
