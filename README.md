@@ -11,16 +11,13 @@ pp. 3153–3160.
 
 [3] B. Jutzi. (2016). Kit-ipf-Software and Datasets. [Online]. Available: http://www.ipf.kit.edu/english/code.php
 
-
-
 These datasets are ONLY released for academic use. The copyrights belong to authors of [2] and [3].  
 
-If you have any detail questions about the dataset, please feel free to contact us: siyuhuang@zju.edu.cn
-
+If you have any detail questions about the datasets, please feel free to contact us: siyuhuang@zju.edu.cn
 
 ## Introduction
 
-test_images_VIRAT.zip and test_images_KIT.zip respectively include files of VIRAT set and KIT set. 
+**test_images_VIRAT.zip** and **test_images_KIT.zip** respectively include files of VIRAT set and KIT set. 
 
 VIRAT set contains 43 folders corresponding to 43 raw videos of 9 scenes. The start indexes of each scene are (1, 3, 4, 12, 22, 28, 32, 35,41). Each folder contains three kinds of files: \*.jpg is scene image; bb_\*.mat is bounding-box of object with [w1, h1, w2, h2]; gt_\*.mat is trajectory of object with [h, w]. 
 
