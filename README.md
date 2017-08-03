@@ -1,5 +1,7 @@
 # Visual-Path-Prediction-TIP-2016
 
+## Introduction
+
 Dataset link: http://pan.baidu.com/s/1hsxfUz6 password: rx8x
 
 These are two test datasets used in our paper [1] publicated on TIP 2016. All of the images, videos, and annotations of these two datasets are adapted from two video datasets, including VIRAT Video Dataset Release 2.0 [2] and KIT AIS Dataset [3]. If you use these datasets in your research, please kindly cite them:
@@ -15,7 +17,7 @@ These datasets are ONLY released for academic use. The copyrights belong to auth
 
 If you have any questions about the datasets, please feel free to contact us: siyuhuang@zju.edu.cn
 
-## Introduction
+## Dataset description
 
 **test_images_VIRAT.zip** and **test_images_KIT.zip** respectively include files of VIRAT set and KIT set. 
 
