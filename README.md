@@ -13,7 +13,7 @@ pp. 3153–3160.
 
 These datasets are ONLY released for academic use. The copyrights belong to authors of [2] and [3].  
 
-If you have any detail questions about the datasets, please feel free to contact us: siyuhuang@zju.edu.cn
+If you have any questions about the datasets, please feel free to contact us: siyuhuang@zju.edu.cn
 
 ## Introduction
 
