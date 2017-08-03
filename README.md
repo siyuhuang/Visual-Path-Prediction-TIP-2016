@@ -10,7 +10,7 @@ pp. 3153–3160.
 These datasets are ONLY released for academic use. The copyrights belong to authors of [2] and [3].  
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 
 We construct two benchmark datasets for visual path prediction from the adaptation of two large video tracking
 datasets [6], [7].
