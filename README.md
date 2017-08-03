@@ -19,11 +19,11 @@ If you have any questions about the datasets, please feel free to contact us: si
 
 ## Dataset description
 
-**test_images_VIRAT.zip** and **test_images_KIT.zip** respectively include files of VIRAT set and KIT set. 
+**test_images_VIRAT.zip** and **test_images_KIT.zip** respectively include files of **VIRAT set** and **KIT set**. 
 
-VIRAT set contains 43 folders corresponding to 43 raw videos of 9 scenes. The start indexes of each scene are (1, 3, 4, 12, 22, 28, 32, 35,41). Each folder contains three kinds of files: *\*.jpg is scene image*; *bb_\*.mat* is bounding-box of object with [w1, h1, w2, h2]; *gt_\*.mat* is trajectory of object with [h, w]. 
+**VIRAT set** contains 43 folders corresponding to 43 raw videos of 9 scenes. The start indexes of each scene are (1, 3, 4, 12, 22, 28, 32, 35,41). Each folder contains three kinds of files: *\*.jpg is scene image*; *bb_\*.mat* is bounding-box of object with [w1, h1, w2, h2]; *gt_\*.mat* is trajectory of object with [h, w]. 
 
-KIT set contains 8 folders corresponding to 8 scenes. The format of its files is the same to VIRAT set.
+**KIT set** contains 8 folders corresponding to 8 scenes. The format of its files is the same to VIRAT set.
 
 Please attention, the KIT set is only used for testing without training procedure. For VIRAT set, We only provide the files used for testing, because the size of training files is large and may be different for different algorithms. You can download the complete dataset in https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f57e748d777f753209bed7 or http://www.viratdata.org/, and use the rest videos to generate training data according to needs of your algorithm.
 
